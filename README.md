@@ -39,11 +39,11 @@
 
 ###
 
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  https://raw.githubusercontent.com/ThanhHangDHV/ThanhHangDHV/output/snake.svg
-  https://i.imgflip.com/65efzo.gif
-</div>
+###
+
+<img src="https://raw.githubusercontent.com/ThanhHangDHV/ThanhHangDHV/output/snake.svg" alt="Snake animation" />
 
 ###
 
